@@ -1,4 +1,4 @@
-# Exercício 2
+# Exercícios 2, 3, 4
 
 Enunciado:
 <br>
